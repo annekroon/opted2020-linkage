@@ -11,7 +11,7 @@ Repo documenting linkage activities of WP8
   - source / actors (Potentially named entity recognition--WIKI data)
 
 2. linkage on the basis of content characteristics:
-  - issues (annotated data/ dictionarise)
+  - issues (annotated data/ dictionary)
     > **manifesto**: label environmental protection.
     > **CAP**: label visserij (fishing)
 
