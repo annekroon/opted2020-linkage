@@ -13,7 +13,7 @@ Repo documenting linkage activities of WP8
 2. linkage on the basis of content characteristics:
   - issues (annotated data/ dictionarise)
     > **manifesto**: label environmental protection.
-> **CAP**: label visserij (fishing)
+    > **CAP**: label visserij (fishing)
 
   - cosine similairty?
 
