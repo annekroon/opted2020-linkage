@@ -1,10 +1,10 @@
 # opted2020-linkage
-Repo documenting linkage activities of WP8
+This repo keeps track of the linkage activities of WP8 of the H2020 project [Opted] (https://opted.eu/)
 
 ----
 
-#### Case study proposal: issue of **intensive fishing**
 
+#### Case study proposal: issue of **intensive fishing**
 
 1. linkage on the basis of **meta-data**:
   - time
@@ -30,21 +30,3 @@ Repo documenting linkage activities of WP8
        '198605', '198909', '199405', '199805', '200205', '200301',
        '200611', '201006', '201209', '201703'
 ```
-
-### Parliamentary questions
-```python
-'1996'-'2017'
-```
-### Media data
-```python
-'1996'-'2018'
-```
-### European parliament
-
-https://www.europarl.europa.eu/plenary/en/parliamentary-questions.html
-
-
-## what about...
-
-- countries
-- timeframe
