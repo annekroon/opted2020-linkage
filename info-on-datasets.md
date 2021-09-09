@@ -1,8 +1,5 @@
 
-## CAP data
 
-- P
-- Speech of the king: 1945 - 2020
 
 ## Manifesto data
 
@@ -19,7 +16,8 @@ German Democratic Republic', 'Portugal', 'France', 'Serbia', 'Russia', 'Spain', 
 - potentially better option if we want this data:
   - [EU open data portal](https://data.europa.eu/data/datasets?locale=en)You can filter better using this portal, however, you cannot download all in once. For example, see [here](https://www.europarl.europa.eu/RegistreWeb/search/simpleSearchHome.htm?typesDoc=QEPR&searchLanguages=EN&sortAndOrder=DATE_DOCU_DESC).
 
-- A full corpus (scraped by someone else) can be retrieved [here](https://www.kaggle.com/djonafegnem/europarl-parallel-corpus-19962011). Timeframe: 1996-2011.
+- A full corpus (scraped by someone else) can be retrieved [here](https://www.kaggle.com/djonafegnem/europarl-parallel-corpus-19962011).   
+Timeframe: 1996-2011.
 
 
 
@@ -34,7 +32,4 @@ German Democratic Republic', 'Portugal', 'France', 'Serbia', 'Russia', 'Spain', 
 | 6 | Political conflict data                                                                        | Claims/core sentences                                | Claims/core sentence                             | Daily            | Subject, issue, direction                 | https://poldem.eui.eu/data-overview/                            | NO                   |
 | 7 | CAP data                                                                                       | Bills, question, manifestos, speeches, hearings etc. | Bills, question, hearings (quasi)sentences, etc. | Date or election | Issue                                     | https://www.comparativeagendas.net/                             | Rarely               |
 | 8 | DICEU                                                                                          | Council deliberation                                 | Individual speeches within the deliberation      | Date             | Ideal point/position                      | https://journals.sagepub.com/doi/suppl/10.1177/1465116519839152 | No                   |
-|   |                                                                                                |                                                      |                                                  |                  |                                           |                                                                 |                      |
-|   |                                                                                                |                                                      |                                                  |                  |                                           |                                                                 |                      |
-|   |                                                                                                |                                                      |                                                  |                  |                                           |                                                                 |                      |
-|   |                                                                                                |                                                      |                                                  |                  |                                           |                                                                 |                      |
+|   
