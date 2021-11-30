@@ -8,7 +8,7 @@ This repo keeps track of the linkage activities of WP8 of the H2020 project [opt
 - [This file](reading-datafiles.ipynb) reads in several [key data-sets](info-on-datasets.md) of WP8.
 
 
-### folder overview
+### Folder overview
 
 ```
    ├── analyses                # pre-processing data files, merging etc.  
