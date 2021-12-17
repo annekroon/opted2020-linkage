@@ -9,9 +9,12 @@
 *.fmt
 
 data/*
+output/*
+.DS_Store
+/.DS_Store
 
 ## Do not add config file
-config.py 
+config.py
 
 ## Intermediate documents:
 *.dvi
